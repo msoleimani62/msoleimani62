@@ -15,13 +15,16 @@ Building practical tools for software development, automation, and security.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-[English](#english) · [فارسی](#نسخه-فارسی)
+Choose your preferred language below.
 
 </div>
 
 ---
 
 <a id="english"></a>
+
+<details open>
+<summary>🇬🇧 English</summary>
 
 ## About Me
 
@@ -120,12 +123,14 @@ A cross-platform Python CLI downloader built on yt-dlp, supporting video, audio,
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
 </p>
 
+</details>
+
 ---
 
 <a id="نسخه-فارسی"></a>
 
 <details>
-<summary>🇮🇷 نمایش نسخه فارسی</summary>
+<summary>🇮🇷 فارسی</summary>
 
 <div dir="rtl" align="right">
 
