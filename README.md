@@ -77,7 +77,7 @@ A multi-user Telegram news bot that aggregates RSS feeds, translates content, an
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 [Bimarz](https://github.com/msoleimani62/bimarz)
 
@@ -85,6 +85,17 @@ A project for working with VLESS, Reality, and Vision technologies.
 
 <img src="https://img.shields.io/badge/Networking-0A7EA4?style=flat-square&logo=wireguard&logoColor=white" alt="Networking">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+
+</td>
+<td width="50%" valign="top">
+
+### 📥 [Open Downloader CLI](https://github.com/msoleimani62/open-downloader-cli)
+
+A cross-platform Python CLI downloader built on yt-dlp, supporting video, audio, playlists, subtitles, automatic resume, encrypted cookies, and proxy pools.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square" alt="yt-dlp">
+<img src="https://img.shields.io/badge/CLI-333333?style=flat-square" alt="CLI">
 
 </td>
 </tr>
@@ -142,6 +153,10 @@ A project for working with VLESS, Reality, and Vision technologies.
 ### 🌐 [بیمارز (Bimarz)](https://github.com/msoleimani62/bimarz)
 
 پروژه‌ای مرتبط با فناوری‌های VLESS، Reality و Vision.
+
+### 📥 [دانلودر متن‌باز (Open Downloader CLI)](https://github.com/msoleimani62/open-downloader-cli)
+
+دانلودر چندسکویی مبتنی بر Python و yt-dlp برای دریافت ویدئو، صوت و پلی‌لیست از سایت‌های پشتیبانی‌شده؛ با قابلیت ادامه خودکار دانلود، مدیریت زیرنویس، رمزنگاری کوکی‌ها و پشتیبانی از پروکسی.
 
 ## تمرکز فعلی
 
