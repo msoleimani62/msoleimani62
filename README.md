@@ -15,16 +15,11 @@ Building practical tools for software development, automation, and security.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-Choose your preferred language below.
+[🇬🇧 English](README.md) · [🇮🇷 فارسی](README.fa.md)
 
 </div>
 
 ---
-
-<a id="english"></a>
-
-<details open>
-<summary>🇬🇧 English</summary>
 
 ## About Me
 
@@ -123,66 +118,10 @@ A cross-platform Python CLI downloader built on yt-dlp, supporting video, audio,
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
 </p>
 
-</details>
-
----
-
-<a id="نسخه-فارسی"></a>
-
-<details>
-<summary>🇮🇷 فارسی</summary>
-
-<div dir="rtl" align="right">
-
-# محمود سلیمانی | توسعه‌دهنده نرم‌افزار و ابزارهای متن‌باز
-
-توسعه‌دهنده‌ی نرم‌افزارهای متن‌باز با علاقه به ساخت ابزارهای کاربردی و قابل‌اعتماد.
-
-تمرکز من بر کیفیت نرم‌افزار، خودکارسازی فرایندهای توسعه، آزمون نرم‌افزار و ابزارهای خط فرمان است.
-
-## پروژه‌های منتخب
-
-### 🔍 [سرند (Sarand)](https://github.com/msoleimani62/sarand)
-
-ابزار خط فرمان مبتنی بر Python و Rust برای ممیزی و گزارش‌گیری نرم‌افزار.
-
-### 🏗️ [بنا (Bana)](https://github.com/msoleimani62/bana)
-
-ابزاری برای خودکارسازی آماده‌سازی محیط توسعه و ساخت اپلیکیشن‌های اندروید، از جمله در محیط‌های Termux و Kali NetHunter بدون روت.
-
-### 🔐 [رمز (Ramz)](https://github.com/msoleimani62/ramz)
-
-ابزار مبتنی بر Rust برای آرشیو، فشرده‌سازی و رمزگذاری فایل‌ها و بررسی صحت آرشیو.
-
-### 📰 [بینا (Bina)](https://github.com/msoleimani62/bina)
-
-ربات خبری تلگرام برای گردآوری خبرهای RSS، ترجمه‌ی محتوا و ارسال اخبار شخصی‌سازی‌شده به کاربران.
-
-### 🌐 [بی‌مرز (Bimarz)](https://github.com/msoleimani62/bimarz)
-
-پروژه‌ای مرتبط با فناوری‌های VLESS، Reality و Vision.
-
-### 📥 [دانلودر متن‌باز (Open Downloader CLI)](https://github.com/msoleimani62/open-downloader-cli)
-
-دانلودر چندسکویی مبتنی بر Python و yt-dlp برای دریافت ویدئو، صوت و پلی‌لیست از سایت‌های پشتیبانی‌شده؛ با قابلیت ادامه خودکار دانلود، مدیریت زیرنویس، رمزنگاری کوکی‌ها و پشتیبانی از پروکسی.
-
-## تمرکز فعلی
-
-- توسعه و نگهداری پروژه‌های متن‌باز.
-- بهبود آزمون‌های خودکار و کیفیت کد.
-- ساخت ابزارهای قابل‌اعتماد برای محیط‌های لینوکس و اندروید.
-- ساده‌تر کردن استفاده، نگهداری و مشارکت در پروژه‌ها.
-
-</div>
-
-</details>
-
 ---
 
 <div align="center">
 
 **Building useful tools, one project at a time.**
-
-**ساخت ابزارهای مفید، قدم‌به‌قدم.**
 
 </div>
