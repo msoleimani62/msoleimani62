@@ -15,7 +15,7 @@ Building practical tools for software development, automation, and security.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-[English](#english) · [فارسی](#فارسی)
+[English](#english) · [فارسی](#نسخه-فارسی)
 
 </div>
 
@@ -122,7 +122,10 @@ A cross-platform Python CLI downloader built on yt-dlp, supporting video, audio,
 
 ---
 
-<a id="فارسی"></a>
+<a id="نسخه-فارسی"></a>
+
+<details>
+<summary>🇮🇷 نمایش نسخه فارسی</summary>
 
 <div dir="rtl" align="right">
 
@@ -166,6 +169,8 @@ A cross-platform Python CLI downloader built on yt-dlp, supporting video, audio,
 - ساده‌تر کردن استفاده، نگهداری و مشارکت در پروژه‌ها.
 
 </div>
+
+</details>
 
 ---
 
