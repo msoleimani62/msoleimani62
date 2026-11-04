@@ -126,7 +126,7 @@ A cross-platform Python CLI downloader built on yt-dlp, supporting video, audio,
 
 <div dir="rtl" align="right">
 
-# سلام، من محمود سلیمانی هستم 👋
+# محمود سلیمانی | توسعه‌دهنده نرم‌افزار و ابزارهای متن‌باز
 
 توسعه‌دهنده‌ی نرم‌افزارهای متن‌باز با علاقه به ساخت ابزارهای کاربردی و قابل‌اعتماد.
 
@@ -150,7 +150,7 @@ A cross-platform Python CLI downloader built on yt-dlp, supporting video, audio,
 
 ربات خبری تلگرام برای گردآوری خبرهای RSS، ترجمه‌ی محتوا و ارسال اخبار شخصی‌سازی‌شده به کاربران.
 
-### 🌐 [بیمارز (Bimarz)](https://github.com/msoleimani62/bimarz)
+### 🌐 [بی‌مرز (Bimarz)](https://github.com/msoleimani62/bimarz)
 
 پروژه‌ای مرتبط با فناوری‌های VLESS، Reality و Vision.
 
